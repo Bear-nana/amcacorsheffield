@@ -1,5 +1,5 @@
 <?php
-define( 'WP_CACHE', true ); // By Speed Optimizer by SiteGround
+define( 'WP_CACHE', false ); // By Speed Optimizer by SiteGround
 
 /**
  * The base configuration for WordPress
