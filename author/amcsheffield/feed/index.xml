@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Admin &#8211; CHURCH OF REDEMPTION</title>
+	<atom:link href="https://bear-nana.github.io/amcacorsheffield/author/amcsheffield/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bear-nana.github.io/amcacorsheffield</link>
+	<description></description>
+	<lastBuildDate>Mon, 22 Jan 2024 16:55:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://bear-nana.github.io/amcacorsheffield/wp-content/uploads/2024/01/anglican_logo-removebg-preview.png</url>
+	<title>Admin &#8211; CHURCH OF REDEMPTION</title>
+	<link>https://bear-nana.github.io/amcacorsheffield</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Couples Night 2024</title>
+		<link>https://bear-nana.github.io/amcacorsheffield/couples-night/</link>
+					<comments>https://bear-nana.github.io/amcacorsheffield/couples-night/#respond</comments>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Tue, 16 Jan 2024 17:06:58 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=50</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1000" height="714" src="http://localhost/wordpress/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-16-at-1.04.38-PM.jpeg" alt="" class="wp-image-51"/></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://bear-nana.github.io/amcacorsheffield/couples-night/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
