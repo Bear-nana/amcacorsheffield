@@ -283,7 +283,7 @@ input[type="submit"] {
 
     .wp-block-navigation__responsive-container-open svg path,
     .wp-block-navigation__responsive-container-close svg path{
-        fill: var(--wp--preset--color--white);
+        fill: #000000;
     }
 
     .wp-block-navigation__responsive-container-close{
