@@ -263,7 +263,7 @@ input[type="submit"] {
     display: none !important;
   }
   header .wp-block-site-title {
-    font-size: 20px;
+    font-size: 18px;
   }
 
 }
@@ -300,7 +300,7 @@ input[type="submit"] {
     }
 
     .wp-block-navigation:not(.has-background) .wp-block-navigation__responsive-container.is-menu-open{
-        background-color: var(--wp--preset--color--primary);
+        /*background-color: var(--wp--preset--color--primary); */
     }
 
     .wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content{
