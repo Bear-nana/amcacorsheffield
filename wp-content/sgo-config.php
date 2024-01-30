@@ -34,6 +34,6 @@ $config = array (
   ),
   'output_dir' => 'C:\\xampp\\htdocs\\amcacorsheffield/wp-content/cache/sgo-cache/',
   'logged_in_cache' => 0,
-  'cache_secret_key' => '9cf4eed6d0cdd78a8f35a5da60463acb',
+  'cache_secret_key' => '6937f32bb199fca9d3fba487489ad308',
   'logged_in_cookie' => 'wordpress_logged_in_15263849f8d2feafc89487cbec43025a',
 );

@@ -100,7 +100,7 @@ RewriteRule . /amcacorsheffield/index.php [L]
 # The directives (lines) between "BEGIN Simply Static" and "END Simply Static" are
 # dynamically generated, and should only be modified via WordPress filters.
 # Any changes to the directives between these markers will be overwritten.
-<Files "C:\xampp\htdocs\amcacorsheffield/wp-content/uploads\simply-static\\9172f91a9758d643bf017a9201314eb7-debug.txt">
+<Files "C:\xampp\htdocs\amcacorsheffield/wp-content/uploads\simply-static\\08f8fec501625e2388a6a847a5865052-debug.txt">
 require all denied
 require host localhost
 </Files>
